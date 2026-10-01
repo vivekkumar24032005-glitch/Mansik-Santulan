@@ -5,10 +5,3 @@ joblib
 pandas
 scikit-learn
 
-echo "# Mansik-Santulan" >> README.md
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/vivekkumar24032005-glitch/Mansik-Santulan.git
-git push -u origin main
